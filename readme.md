@@ -10,11 +10,11 @@ The code was written in Matlab version 7.10.0 (R2010a). It takes approximately 1
 
 ## Data sources
 - Crisis data:
-	- Crisis dates: [http://www.carmenreinhart.com/data/browse-by-topic/topics/7/]
-	- Inflation: [http://www.carmenreinhart.com/data/browse-by-topic/topics/2/]  
+	- Crisis dates: http://www.carmenreinhart.com/data/browse-by-topic/topics/7/
+	- Inflation: http://www.carmenreinhart.com/data/browse-by-topic/topics/2/  
 	Reinhart, C. M., & Rogoff, K. S. (2011). From financial crash to debt crisis. *The American Economic Review, 101*(5), 1676-1706.
 - Map and coordinates:
-	- Average latitude and longitude for countries: [http://dev.maxmind.com/geoip/legacy/codes/country_latlon/]
-	- Mercator map: [http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mercator-projection.jpg/773px-Mercator-projection.jpg]
+	- Average latitude and longitude for countries: http://dev.maxmind.com/geoip/legacy/codes/country_latlon/
+	- Mercator map: http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mercator-projection.jpg/773px-Mercator-projection.jpg
 
 
